@@ -1,7 +1,5 @@
 workflow Invoke-RunbookUsingAlerts
 {
-	workflow Invoke-RunbookUsingAlerts
-{
     param (     
         [object]$WebhookData 
     ) 
@@ -59,5 +57,3 @@ workflow Invoke-RunbookUsingAlerts
     }  
 }
 ########################################################################
-
-}
